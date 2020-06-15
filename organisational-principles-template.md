@@ -11,11 +11,11 @@ We decided to go for an independent approach to brainstorming that involved:
   2. People make independent notes on the spec, any important choices we need to make, any deliverables/tasks that need to be done, and their ideas of solutions
   3. These points are discussed in the team meeting
   
-      a. Solutions are proposed
+      a. Solutions are proposed.
       
-      b. The final approach is decided by agreement within the team
+      b. The final approach is decided by agreement within the team.
       
-      c. If there is disagreement a vote is made and XXX acts as a tiebreaker
+      c. If there is disagreement a vote is made and XXX acts as a tiebreaker.
       
       d. Discussions and decisions are all noted in the log.
   
@@ -54,7 +54,9 @@ Our main communication was through a central WhatsApp group chat with all the te
       c. The team would highlight any issues, suggest improvements and/or the next steps for the task.
       
   2. Talk about any main concepts needing clarification within the team, and compile a list of remaining questions for the consultation.
+  
   3. Consider any remaining tasks to be completed.
+  
   4. Allocate those tasks to members with no current task.
 
 After the meeting we worked independently, and uploaded any changes to documents to GitHub prior to the next meeting. Small queries would be discussed through the group chat, and more complex ones brought up in the meetings.
