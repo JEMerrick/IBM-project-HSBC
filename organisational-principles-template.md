@@ -10,6 +10,7 @@ We decided to go for an independent approach to brainstorming that involved:
   1. Everyone reads the information from the spec
   2. People make independent notes on the spec, any important choices we need to make, any deliverables/tasks that need to be done, and their ideas of solutions
   3. These points are discussed in the team meeting
+  
       a. Solutions are proposed
       b. The final approach is decided by agreement within the team
       c. If there is disagreement a vote is made and XXX acts as a tiebreaker
