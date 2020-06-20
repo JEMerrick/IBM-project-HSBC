@@ -11,6 +11,9 @@ https://docs.google.com/spreadsheets/d/1nDLZBUewQFw9ZGjAyIEi6vwkJKk4ZHfGFaZxvG3u
 Questions sheet:
 https://docs.google.com/document/d/17IWnaV4Rmw8Z4IssivlbWQ1pQ0sOFimRNpixA-bWBfY/edit?usp=sharing
 
+Pitch:
+https://drive.google.com/file/d/16HQJZoYUb_1Q1A7itFr5fbSoC_usnuL-/view?usp=sharing
+
 Images for non technical pitch / prospectus / user cases
 https://maelleguerre.wixsite.com/hsbc-corona
 
