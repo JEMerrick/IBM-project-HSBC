@@ -4,7 +4,6 @@ Organisational Principles : <HSBC>
 Idea creation and selection
 ---------------------------
 
-<Methods used for idea-creation and selection.>
 
 We decided to go for an independent approach to brainstorming that involved:
   1. Everyone reads the information from the spec
@@ -22,7 +21,6 @@ We decided to go for an independent approach to brainstorming that involved:
 Work allocation
 ---------------
 
-<Approach used to allocate work to each team member.>
 
 Work is allocated according to priority, preference, and skills/experience of the team members. Tasks are allocated during the team meetings.
   1. All the current priority tasks are listed
@@ -36,14 +34,11 @@ Each person is only assigned one task at a time.
 Tools
 -----
 
-<Technologies, tools, or processes used to manage shared documents and work products.>
-
 We used a Github repo as a central location where all documents would be stored. Any documents that had to be accessed/updated frequently by multiple members without clashing (e.g. updating the time log) were made on Google Drive and a link shared in the Github's README file; this prevented conflicts as it can be updated by multiple people in real time (almost instantly). There would only be one member working on a file/task at a time so other conflicts would not happen.
+Microsoft Word was used to 
 
 Communication
 -------------
-
-<How communication amongst the team is managed, including the medium used and aproximate frequency.>
 
 Our main communication was through a central WhatsApp group chat with all the team members, where we could informally talk about the project together (due to the remote working). We also used Microsoft Teams to communicate - we had scheduled meetings every day at about 2pm lasting as long as necessary (usually 1-2 hours). During the meetings we would:
 
@@ -65,7 +60,6 @@ After the meeting we worked independently, and uploaded any changes to documents
 Sign-off
 --------
 
-<Process used to ensure that final documents have been prepared, checked, and that everyone has signed off on them.>
 
 All members were responsible for the sign-off of documents. A spreadsheet was created with a section in each task for each member to sign. Once all members had signed off each document, the check list would be complete. Since all the documents were uploaded to GitHub, the team only needed to make sure updated versions of files were uploaded when complete. The documents available were compared with a check-list of the deliverables.
 
