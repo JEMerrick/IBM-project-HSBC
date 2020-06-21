@@ -67,7 +67,7 @@ Sign-off
 
 <Process used to ensure that final documents have been prepared, checked, and that everyone has signed off on them.>
 
-XXX was responsible for the sign-off of documents. Since all the documents were uploaded to GitHub, the team only needed to make sure updated versions of files were uploaded when complete. The documents available were compared with a check-list of the deliverables.
+All members were responsible for the sign-off of documents. A spreadsheet was created with a section in each task for each member to sign. Once all members had signed off each document, the check list would be complete. Since all the documents were uploaded to GitHub, the team only needed to make sure updated versions of files were uploaded when complete. The documents available were compared with a check-list of the deliverables.
 
 Milestones:
   1.
