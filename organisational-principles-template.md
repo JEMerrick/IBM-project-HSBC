@@ -60,7 +60,7 @@ Our main communication was through a central WhatsApp group chat with all the te
 
   4. Allocate those tasks to members with no current task.
 
-After the meeting we worked independently, and uploaded any changes to documents to GitHub prior to the next meeting. Small queries would be discussed through the group chat, and more complex ones brought up in the meetings. The universally accessible Github repo allowed group members to review each other's work. Exchanging constructive criticism based on these reviews contributed to the development of our architecture.
+After the meeting we worked independently, and uploaded any changes to documents to GitHub prior to the next meeting. Small queries would be discussed through the group chat, and more complex ones brought up in the meetings. If two or three group members needed close collaboration on any deliverables (e.g. AOD and component model) they could meet separately and communicate their decisions at the next full meeting. The universally accessible Github repo allowed group members to review each other's work. Exchanging constructive criticism based on these reviews contributed to the development of our architecture.
 
 Sign-off
 --------
