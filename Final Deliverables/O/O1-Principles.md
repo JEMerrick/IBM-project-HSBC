@@ -70,6 +70,10 @@ Sign-off
 All members were responsible for the sign-off of documents. A spreadsheet was created with a section in each task for each member to sign. Once all members had signed off each document, the check list would be complete. Since all the documents were uploaded to GitHub, the team only needed to make sure updated versions of files were uploaded when complete. The documents available were compared with a check-list of the deliverables.
 
 Milestones:
-  1.
-  2.
-  3.
+  1. *12th June* - Form group, have first preliminary discussion. Decide on organisational principles.
+  2. *13th June* - Finalise organisational principles by this date. Begin initial planning.
+  3. *14th June* - Complete SCD, use cases, by splitting up tasks, by this date.
+  4. *16th June* - Broadly decide the architecture, prepare preliminary AOD by this date.
+  5. *19th June* - Go into finer details, finalise by this date data model, component model and AOD by splitting up these tasks and cross-collaborating with feedback. Discuss designs for prospectus, pitch and method overview (visual appeal). Start developing pitch content and powerpoint.
+  6. *20th June* - Complete prospectus, method overview - start recording pitch. Hopefully put pitch together in the same day.
+  7. *21st June* - Everything must be completed not later than 3pm. After which, there is a review of all deliverables in which we discuss, make minor changes and sign off everything. Set up zip file with all deliverables and submit no later than 7pm.
