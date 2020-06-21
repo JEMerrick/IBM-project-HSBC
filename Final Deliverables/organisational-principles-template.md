@@ -15,7 +15,7 @@ We decided to go for an independent approach to brainstorming that involved:
 
       b. The final approach is decided by agreement within the team.
 
-      c. If there is disagreement a vote is made and XXX acts as a tiebreaker.
+      c. If there is disagreement a vote is made and jem18 acts as a tiebreaker.
 
       d. Discussions and decisions are all noted in the log.
 
