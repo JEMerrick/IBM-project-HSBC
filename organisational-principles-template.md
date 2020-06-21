@@ -60,14 +60,14 @@ Our main communication was through a central WhatsApp group chat with all the te
 
   4. Allocate those tasks to members with no current task.
 
-After the meeting we worked independently, and uploaded any changes to documents to GitHub prior to the next meeting. Small queries would be discussed through the group chat, and more complex ones brought up in the meetings. The universally accessible Github repo allowed group members to review each other's work. Exchanging constructive criticism based on these reviews contributed to the development of our architecture.
+After the meeting we worked independently, and uploaded any changes to documents to GitHub prior to the next meeting. Small queries would be discussed through the group chat, and more complex ones brought up in the meetings. If two or three group members needed close collaboration on any deliverables (e.g. AOD and component model) they could meet separately and communicate their decisions at the next full meeting. The universally accessible Github repo allowed group members to review each other's work. Exchanging constructive criticism based on these reviews contributed to the development of our architecture.
 
 Sign-off
 --------
 
 <Process used to ensure that final documents have been prepared, checked, and that everyone has signed off on them.>
 
-XXX was responsible for the sign-off of documents. Since all the documents were uploaded to GitHub, the team only needed to make sure updated versions of files were uploaded when complete. The documents available were compared with a check-list of the deliverables.
+All members were responsible for the sign-off of documents. A spreadsheet was created with a section in each task for each member to sign. Once all members had signed off each document, the check list would be complete. Since all the documents were uploaded to GitHub, the team only needed to make sure updated versions of files were uploaded when complete. The documents available were compared with a check-list of the deliverables.
 
 Milestones:
   1.
