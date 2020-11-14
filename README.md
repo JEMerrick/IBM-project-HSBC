@@ -1,5 +1,20 @@
 # IBM-project-HSBC
-Project repo :)
+
+2nd Year computer architecture workshop project.
+
+This includes:
+
+Technical:
+System context diagram
+Use-cases
+Architecture overview diagram
+Data model
+Component model
+
+Non-technical:
+Pitch
+Prospectus
+Method
 
 
 Drive link folder:
