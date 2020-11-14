@@ -5,15 +5,15 @@
 This includes:
 
 Technical:
-System context diagram
-Use-cases
-Architecture overview diagram
-Data model
+System context diagram, 
+Use-cases, 
+Architecture overview diagram, 
+Data model, 
 Component model
 
 Non-technical:
-Pitch
-Prospectus
+Pitch, 
+Prospectus, 
 Method
 
 
