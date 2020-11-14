@@ -1,6 +1,8 @@
 # IBM-project-HSBC
+Design for COVID-19 Track and trace app.
 
 2nd Year computer architecture workshop project.
+
 
 This includes:
 
